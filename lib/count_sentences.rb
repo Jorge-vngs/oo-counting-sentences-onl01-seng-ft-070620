@@ -9,7 +9,7 @@ def sentence?
     else
       false
     end
-  end	  end
+  end	  
 
 
   def question?	 
@@ -19,7 +19,7 @@ def sentence?
     else
       false
     end
-  end	  end
+  end	
 
 
   def exclamation?	 
@@ -29,7 +29,7 @@ def sentence?
     else
       false
     end
-  end	  end
+  end	  
 
 
   def count_sentences	
